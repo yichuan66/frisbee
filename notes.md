@@ -7,6 +7,14 @@
     - 7人队通常有2个handler，第三个optional (hybrid）
     - 好书，川儿，Zeke，卅
   - cutter
+    - 通常有4个cutter进行进攻
+    - handler和cutter配合进行进攻，handler即使站在后场 ，也要配合cutter进行推进，和进攻团体保持一定距离。
+    - cutter不建议左右横跑，因为会影响其他的cutter。要了解身边的cutter的行动，保持一定距离。
+    - cutter的行为handbook
+      - 若机会明显则直接传出
+      - 接盘后觉得传不去就尝试传回handler
+      - 防反手
+      - 在边上拿盘后尽量往中间传
 - 换人的条件
   - 每一分可以换
 - 参赛人数
